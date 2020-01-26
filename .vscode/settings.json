@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/149b026b-2f25-4424-b138-b3a75354fed9/resourceGroups/WebAppRG/providers/Microsoft.Web/sites/WebAppLamble"
+}
